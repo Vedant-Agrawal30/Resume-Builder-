@@ -194,7 +194,7 @@ Deployed on **Render**
 * Database: MongoDB Atlas
 
 🔗 **Example Live Demo:**
-👉 [https://your-app.onrender.com](https://your-app.onrender.com)
+👉 [https://your-app.onrender.com](https://resume-builder-ycew.onrender.com/)
 
 ---
 
@@ -202,9 +202,8 @@ Deployed on **Render**
 
 **Vedant Agrawal**
 💼 Full Stack Developer | MERN | AI Integration Enthusiast
-📧 Email: [[your-email@example.com](mailto:your-email@example.com)]
-🔗 LinkedIn: [linkedin.com/in/vedant-agrawal](https://linkedin.com/in/vedant-agrawal)
-🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
+📧 Email: [[vedantagrawal2904@gmail.com](mailto:vedantagrawal2904@gmail.com)]
+🔗 github : 
 
 ---
 
